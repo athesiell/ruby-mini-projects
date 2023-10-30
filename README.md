@@ -16,3 +16,7 @@ Implement a method #substrings that takes a word as the first argument and then 
 3: Stock Picker
 
 The program takes in an array of stock prices, one for each hypothetical day and returns a pair of days representing the best day to buy and the best day to sell.
+
+4: Bubble Sort
+
+This program takes an array and returns sorted array using bubble method (more in Wiki: https://en.wikipedia.org/wiki/Bubble_sort)
